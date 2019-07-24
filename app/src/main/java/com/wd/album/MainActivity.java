@@ -34,5 +34,8 @@ public class MainActivity extends AppCompatActivity {
 //        git push -u origin master
 
 
+        // fatal: unable to access 'https://github.com/TrimbleGuan/Album.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+
+
     }
 }
