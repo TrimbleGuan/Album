@@ -25,5 +25,14 @@ public class MainActivity extends AppCompatActivity {
         //  git push -u origin master
         // Branch 'master' set up to track remote branch 'master' from 'origin'.
         // fatal: unable to access 'https://github.com/TrimbleGuan/Album.git/': Failed to connect to github.com port 443: Timed out
+
+
+//        git init
+//        git add README.md
+//        git commit -m "first commit"
+//        git remote add origin https://github.com/TrimbleGuan/Album2.git
+//        git push -u origin master
+
+
     }
 }
